@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0-spaces.9",
+  "version": "0.6.0-spaces.10",
   "description": "Next-generation social chat app built on the AT Protocol",
   "homepage": "https://colibri.social",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/colibri-social/colibri.social/releases/download/v0.6.0-spaces.9/Colibri.Social_0.6.0-spaces.9_x64-setup.exe#/dl.7z",
-      "hash": "84a6de071188c8526e78fc0f5876b4fe055b7cbe1db1de117d814739b21dca00"
+      "url": "https://github.com/colibri-social/colibri.social/releases/download/v0.6.0-spaces.10/Colibri.Social_0.6.0-spaces.10_x64-setup.exe#/dl.7z",
+      "hash": "6af652f2110b2641ad69d27d87f3af14b9d7a86b712d6ce3c7bc8e23ed206d9d"
     }
   },
   "post_install": [
